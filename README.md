@@ -5,7 +5,7 @@ Code Responsive Web Navigation using Bootstraps Framework
 ## Bootstrap
 Bootstrap is the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 
-[Alt text](/relative/path/to/preview-desktop.png?raw=true "Desktop Preview")
+![Alt text](https://github.com/rehan-mehdi/responsive-navigation/blob/main/preview-desktop.png?raw=true "Desktop Preview")
 
 ## Build Setup
 
